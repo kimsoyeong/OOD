@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOD10", "OOD10\OOD10.vcxproj", "{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Debug|x64.ActiveCfg = Debug|x64
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Debug|x64.Build.0 = Debug|x64
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Debug|x86.Build.0 = Debug|Win32
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Release|x64.ActiveCfg = Release|x64
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Release|x64.Build.0 = Release|x64
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Release|x86.ActiveCfg = Release|Win32
+		{D7A7082A-55D3-42DD-9C59-ABF78FE7118B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD2816C-05CD-441F-B72D-62416547E8B6}
+	EndGlobalSection
+EndGlobal
