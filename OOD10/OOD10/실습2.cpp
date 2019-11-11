@@ -12,7 +12,7 @@ void swap(T& a, T&b) {
 
 /* ... (추가) template swap의 string type specialization ... */
 template<>
-void std::swap(std::string& a, std::string& b) {
+void swap(std::string& a, std::string& b) {
 	//type 선언 형태는 위의 함수와 동일하게 해줘야 specialization 가능
 	std::string temp = a;
 	a = b;
